@@ -10,6 +10,12 @@
 //*
 
 
+function holaMundo(){
+    return 'Saludos a todos!'
+}
+
+
+
 //! Demo
 // function holaMundo() {
 //     return 'Saludos a todos!';
