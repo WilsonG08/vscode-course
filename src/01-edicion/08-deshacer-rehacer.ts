@@ -1,6 +1,6 @@
 //*
 //*    Objetivo:
-//*        Deshacer y rehacer el código
+//*        w
 //*
 //*    Tips:
 //*        ⌘ Z
