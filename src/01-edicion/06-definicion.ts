@@ -15,3 +15,4 @@ import { saludar } from './extra/funciones';
 const saludo = saludar( 'Thanos' );
 
 console.log(saludo);
+console.log("Atajo para ver funciones!")
