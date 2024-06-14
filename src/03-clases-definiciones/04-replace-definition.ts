@@ -1,4 +1,4 @@
-import { SuperHero } from './extra/classes';
+import { Hero as SuperHero } from './extra/classes';
 
 //* 
 //*     Objetivo:
@@ -7,7 +7,7 @@ import { SuperHero } from './extra/classes';
 //* 
 //*     Tips:
 //*         Replace Symbol
-//*         F2
+//*         fn + F2
 //* 
 
 
